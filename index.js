@@ -55,10 +55,10 @@ function playSoundsForKey(key) {
 function buttonAnimation(key) {
     var activeButton = document.querySelector("." + key);
 
-    activeButton.classList.add("pressed");
+    activeButton.classList.add("pressed");  //To add a class 
 
     setTimeout(function () {
-        activeButton.classList.remove("pressed");
+        activeButton.classList.remove("pressed");  //To remove the pressed class. 
     }, 100);
 
 } 
