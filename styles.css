@@ -8,12 +8,13 @@ h1 {
   color: #DBEDF3;
   font-family: "Arvo", cursive;
   text-shadow: 3px 0 #DA0463;
-
 }
 
 footer {
   color: #DBEDF3;
-  font-family: sans-serif;
+  font-family: "Arvo", cursive;
+  font-size: larger;
+  margin-top: 340px;
 }
 
 .w {
